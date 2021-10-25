@@ -1,9 +1,9 @@
 ### Hi, I'm Luis Bringas 
 
-## I'm a Student, Engineer and Developer.
+## I'm a student, engineer and developer.
 
 - 🌱 I’m currently learning Java.
-- ⚡ Love going to concerts and playing video games
+- ⚡ Love going to concerts and playing video games.
 
 ### Languages and Tools:
 
