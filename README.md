@@ -2,8 +2,8 @@
 
 ## I'm a student, engineer and developer.
 
-- 🌱 I’m currently learning Java.
-- ⚡ Love going to concerts and playing video games.
+- 🌱  I’m currently learning Java.
+- ⚡  Love going to concerts and playing video games.
 
 ### Languages and Tools:
 
