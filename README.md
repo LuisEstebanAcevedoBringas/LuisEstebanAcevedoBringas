@@ -1,4 +1,4 @@
-### Hi, I'm Luis Bringas.
+# Hi, I'm Luis Bringas.
 
 ## I'm a student, engineer and developer.
 
