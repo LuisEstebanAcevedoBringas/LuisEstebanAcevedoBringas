@@ -7,7 +7,7 @@
 
 ### Languages and Tools:
 
-<img align="left" width="26px" src="Skills/VisualStudioCode.svg"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="Skills/VisualStudioCode.svg"/>
 <img align="left" alt="HTML5" width="26px" src="Skills/HTML.svg"/>
 <img align="left" alt="CSS3" width="26px" src="Skills/CSS.svg"/>
 <img align="left" alt="C++" width="26px" src="Skills/C++.svg"/>
