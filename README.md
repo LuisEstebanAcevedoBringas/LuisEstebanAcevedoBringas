@@ -2,7 +2,7 @@
 
 ## I'm a student, engineer and developer.
 
-- 🌱  I’m currently learning Java.
+- 🌱  I’m currently learning TypeScript.
 - ⚡  Love going to concerts and playing video games.
 
 ### Languages and Tools:
