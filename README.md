@@ -23,8 +23,8 @@
 
 ### Contact:
 
-[<img align="left" alt="LinkedIn" width="22px" src="SocialMedia/Instagram.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="SocialMedia/LinkedIn.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="SocialMedia/Instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="SocialMedia/LinkedIn.svg" />][linkedin]
 
 <br />
 <br />
