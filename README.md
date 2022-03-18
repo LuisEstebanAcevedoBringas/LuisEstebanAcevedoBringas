@@ -17,8 +17,9 @@
 <img align="left" alt="GitHub" width="28px" src="Skills/Firebase.svg" />
 <img align="left" alt="GitHub" width="28px" src="Skills/Github.png" />
 <img align="left" alt="GitHub" width="28px" src="Skills/Gitlab.svg" />
-<img align="left" alt="GitHub" width="28px" src="Skills/Git.svh" />
+<img align="left" alt="GitHub" width="28px" src="Skills/Git.svg" />
 
+<br/>
 <br/>
 
 ### Contact:
