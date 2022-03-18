@@ -14,10 +14,10 @@
 <img align="left" alt="Python" width="28px" src="Skills/Python.svg" />
 <img align="left" alt="MySQL" width="28px" src="Skills/MySQL.svg" />
 <img align="left" alt="MongoDB" width="28px" src="Skills/MongoDB.svg" />
-<img align="left" alt="GitHub" width="28px" src="Skills/Firebase.png" />
+<img align="left" alt="GitHub" width="28px" src="Skills/Firebase.svg" />
 <img align="left" alt="GitHub" width="28px" src="Skills/Github.png" />
-<img align="left" alt="GitHub" width="28px" src="Skills/Gitlab.png" />
-<img align="left" alt="GitHub" width="28px" src="Skills/Git.png" />
+<img align="left" alt="GitHub" width="28px" src="Skills/Gitlab.svg" />
+<img align="left" alt="GitHub" width="28px" src="Skills/Git.svh" />
 
 <br/>
 
