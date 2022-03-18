@@ -2,19 +2,22 @@
 
 ## I'm a student, engineer and developer.
 
-- 🌱  I’m currently learning JavaScript.
+- 🌱  I’m currently learning PyTorch.
 - ⚡  Love going to concerts, tattoos and playing video games.
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="Skills/VisualStudioCode.svg"/>
-<img align="left" alt="HTML5" width="26px" src="Skills/HTML.svg"/>
-<img align="left" alt="CSS3" width="26px" src="Skills/CSS.svg"/>
-<img align="left" alt="JavaScript" width="26px" src="Skills/JavaScript.svg" />
-<img align="left" alt="Python" width="26px" src="Skills/Python.svg" />
-<img align="left" alt="MySQL" width="26px" src="Skills/MySQL.svg" />
-<img align="left" alt="MongoDB" width="26px" src="Skills/MongoDB.svg" />
-<img align="left" alt="GitHub" width="26px" src="Skills/Github.png" />
+<img align="left" alt="Visual Studio Code" width="28px" src="Skills/VisualStudioCode.svg"/>
+<img align="left" alt="HTML5" width="28px" src="Skills/HTML.svg"/>
+<img align="left" alt="CSS3" width="28px" src="Skills/CSS.svg"/>
+<img align="left" alt="JavaScript" width="28px" src="Skills/JavaScript.svg" />
+<img align="left" alt="Python" width="28px" src="Skills/Python.svg" />
+<img align="left" alt="MySQL" width="28px" src="Skills/MySQL.svg" />
+<img align="left" alt="MongoDB" width="28px" src="Skills/MongoDB.svg" />
+<img align="left" alt="GitHub" width="28px" src="Skills/Firebase.png" />
+<img align="left" alt="GitHub" width="28px" src="Skills/Github.png" />
+<img align="left" alt="GitHub" width="28px" src="Skills/Gitlab.png" />
+<img align="left" alt="GitHub" width="28px" src="Skills/Git.png" />
 
 <br/>
 
