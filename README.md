@@ -2,8 +2,8 @@
 
 ## I'm a student, engineer and developer.
 
-- 🌱  I’m currently learning PyTorch.
-- ⚡  Love going to concerts, tattoos and playing video games.
+- 👽  I’m currently learning PyTorch.
+- 🤟🏿  Love going to concerts, tattoos and playing video games.
 
 ### Languages and Tools:
 
