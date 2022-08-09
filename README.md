@@ -2,7 +2,7 @@
 
 ## I'm a student, engineer and developer.
 - 😵 Computer Engineer 
-- 👽  I’m currently learning PyTorch.
+- 👽  I’m currently learning PyTorch and Deep Learning.
 - 🤟🏿  Love going to concerts, tattoos and playing video games.
 
 ### Languages and Tools:
