@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **acevedo.bringas.luis.esteban@gmail.com**
 
-- ⚡ Fun fact **I have more tattoos that years**
- 
 - 🤟🏿  Love going to concerts, tattoos and playing video games.
 
 <h3 align="left">Connect with me:</h3>
@@ -62,7 +60,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
 </p>
 
-<br>
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisestebanacevedobringas&show_icons=true&locale=en&layout=compact" alt="luisestebanacevedobringas" /></p>
 
