@@ -1,9 +1,11 @@
 ![MasterHead](./images/backbroung.png)
 <h1 align="center">Hi 👋, I'm Luis Bringas</h1>
-<h3 align="center">Tonight is the last night ever.</h3>
-<img align="right" alt="Coding" width="400" src="./images/coding.gif">
+<h3 align="center">Tonight is the last night ever - YMFC</h3>
+<img align="right" alt="Coding" width="350" src="./images/coding.gif">
 
 <br>
+
+- 😵 Computer Engineer 
 
 - 🌱 I’m currently learning **PyTorch and Deep Learning**
 
@@ -12,6 +14,8 @@
 - 📫 How to reach me **acevedo.bringas.luis.esteban@gmail.com**
 
 - ⚡ Fun fact **I have more tattoos that years**
+ 
+- 🤟🏿  Love going to concerts, tattoos and playing video games.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
