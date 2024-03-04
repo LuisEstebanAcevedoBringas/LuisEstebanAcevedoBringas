@@ -4,8 +4,6 @@
 <br>
 <img align="right" alt="Coding" width="350" src="./images/coding.gif">
 
-<br>
-
 - 😵 Computer Engineer 
 
 - 🌱 I’m currently learning **PyTorch and Deep Learning**
