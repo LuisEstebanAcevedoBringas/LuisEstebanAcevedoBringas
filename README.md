@@ -62,6 +62,8 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
 </p>
 
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisestebanacevedobringas&show_icons=true&locale=en&layout=compact" alt="luisestebanacevedobringas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisestebanacevedobringas&show_icons=true&locale=en" alt="luisestebanacevedobringas" /></p>
