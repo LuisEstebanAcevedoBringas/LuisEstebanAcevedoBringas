@@ -6,11 +6,11 @@
 
 - 😵 Computer Engineer 
 
-- 🌱 I’m currently learning **PyTorch and Deep Learning**
+- 🌱 I’m currently learning **Stable Diffusion**
 
 - 👨‍💻 All of my projects are available at [luisbringas.com](luisbringas.com)
 
-- 📫 How to reach me **acevedo.bringas.luis.esteban@gmail.com**
+- 📫 How to reach me **contact@luisbringas.com**
 
 - 🤟🏿  Love going to concerts, tattoos and playing video games.
 
