@@ -4,13 +4,13 @@
 <br>
 <img align="right" alt="Coding" height="260" width="350" src="./images/coding.gif">
 
-- 😵 Computer Engineer 
+- 😵  Computer Engineer 
 
-- 🌱 I’m currently learning **Stable Diffusion**
+- 🌱  I’m currently learning **Stable Diffusion**
 
-- 👨‍💻 All of my projects are available at [luisbringas.com](luisbringas.com)
+- 👨‍💻  All of my projects are available at [luisbringas.com](luisbringas.com)
 
-- 📫 How to reach me **contact@luisbringas.com**
+- 📫  How to reach me **contact@luisbringas.com**
 
 - 🤟🏿  Love going to concerts, tattoos and playing video games.
 
