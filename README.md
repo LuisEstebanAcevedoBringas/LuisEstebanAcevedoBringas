@@ -8,9 +8,9 @@
 
 - 🌱  I’m currently learning **Stable Diffusion**
 
-- 👨‍💻  All of my projects are available at [luisbringas.com](luisbringas.com)
+- 👨‍💻  All of my projects are available at [luisbringas.com](https://luisbringas.com/)
 
-- 📫  How to reach me **contact@luisbringas.com**
+- 📫  How to reach me **luisbringas@luisbringas.com**
 
 - 🤟🏿  Love going to concerts, tattoos and playing video games.
 
