@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Luis Bringas</h1>
 <h3 align="center">Tonight is the last night ever - YMFC</h3>
 <br>
-<img align="right" alt="Coding" height="260" width="350" src="./images/coding.gif">
+<img align="right" alt="Coding" height="260" width="350" src="./images/data.gif">
 
 - 😵  Computer Engineer 
 
