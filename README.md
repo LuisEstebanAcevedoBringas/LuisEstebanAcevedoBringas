@@ -4,7 +4,7 @@
 ![MasterHead](./images/backbroung.png)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+There!+👋;+I'm+Luis+Bringas!+🖖;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00F706&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+There!+👋;+I'm+Luis+Bringas!+🖖;" />
 </h1>
 <h3 align="center">Tonight is the last night ever - YMFC</h3>
 <br>
