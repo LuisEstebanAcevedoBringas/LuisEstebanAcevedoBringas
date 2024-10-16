@@ -35,7 +35,7 @@
 
 <br>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Skill set ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,javascript,typescript,c,cpp,cs,php"/>
