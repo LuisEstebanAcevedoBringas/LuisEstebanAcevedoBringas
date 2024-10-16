@@ -12,13 +12,13 @@
 
 - 😵  Computer Engineer 
 
-- 🌱  I’m currently learning **Stable Diffusion**
+- 🌱  I’m I am currently pursuing a PhD focused on **Computer Vision**
 
 - 👨‍💻  All of my projects are available at [luisbringas.com](https://luisbringas.com/)
 
 - 📫  How to reach me **luisbringas@luisbringas.com**
 
-- 🤟🏿  Love going to concerts, tattoos and playing video games.
+- 🤟🏿  I love concerts, tattoos and video games.
 
 <h3 align="left">Connect with me:</h3>
 <div align="left"> 
