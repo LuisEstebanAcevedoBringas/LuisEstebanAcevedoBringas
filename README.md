@@ -12,7 +12,7 @@
 
 - 😵  Computer Engineer 
 
-- 🌱  I’m I am currently pursuing a PhD focused on **Computer Vision**
+- 🌱  I’m currently pursuing a PhD focused on **Computer Vision**
 
 - 👨‍💻  All of my projects are available at [luisbringas.com](https://luisbringas.com/)
 
