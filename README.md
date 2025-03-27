@@ -10,9 +10,9 @@
 <br>
 <img align="right" alt="Coding" height="260" width="350" src="./images/data.gif">
 
-- 😵  Computer Engineer 
+- 😵  Computer Engineer with a Master's on Information Security.
 
-- 🌱  I’m currently pursuing a PhD focused on **Computer Vision**
+- 🌱  I’m currently pursuing a PhD focused on **Computer Vision**.
 
 - 👨‍💻  All of my projects are available at [luisbringas.com](https://luisbringas.com/)
 
