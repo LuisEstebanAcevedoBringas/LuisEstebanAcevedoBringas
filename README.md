@@ -49,8 +49,8 @@
 <br><br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisestebanacevedobringas&show_icons=true&locale=en&layout=compact" alt="luisestebanacevedobringas" /></p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisestebanacevedobringas&" alt="luisestebanacevedobringas"/> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisestebanacevedobringas&show_icons=true&locale=en" alt="luisestebanacevedobringas" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisestebanacevedobringas&show_icons=true&locale=en" alt="luisestebanacevedobringas"/> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisestebanacevedobringas&" alt="luisestebanacevedobringas" /></p>
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisestebanacevedobringas&show_icons=true&locale=en&layout=compact" alt="luisestebanacevedobringas"/> </p>
