@@ -35,22 +35,23 @@
 
 <br>
 
-<h2 align="center">⚒️ Skill set ⚒️</h2>
+<h2 align="center">🧠 Skill set 🧠</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,javascript,typescript,c,cpp,cs,php"/>
-    <img src="https://skillicons.dev/icons?i=react,angular,vue,html,css,django,flask,firebase,mongodb,mysql,nodejs,sass,tailwind,docker" />
-    <img src="https://skillicons.dev/icons?i=bash,github,git,gitlab,linux,windows,npm,postman,vscode"/>      
-    <img src="https://skillicons.dev/icons?i=xd,ps,pr,figma" />
+    <img src="https://skillicons.dev/icons?i=py,javascript,typescript,c,cpp,cs,php" />
+    <img src="https://skillicons.dev/icons?i=react,angular,vue,html,css,sass,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,django,flask,firebase,mongodb,mysql,qt,docker" />
+    <img src="https://skillicons.dev/icons?i=bash,github,git,gitlab,linux,windows,npm,postman,vscode" />
     <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn" />
-    <img src="https://skillicons.dev/icons?i=latex,md" />  
+    <img src="https://skillicons.dev/icons?i=xd,ps,pr,figma" />
+    <img src="https://skillicons.dev/icons?i=latex,md" />
 </div>
 
 <br><br>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisestebanacevedobringas&" alt="luisestebanacevedobringas"/> </p>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisestebanacevedobringas&show_icons=true&locale=en" alt="luisestebanacevedobringas"/> </p>
 
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisestebanacevedobringas&show_icons=true&locale=en&layout=compact" alt="luisestebanacevedobringas"/> </p>
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisestebanacevedobringas&show_icons=true&locale=en&layout=compact" alt="luisestebanacevedobringas"/> </p> -->
