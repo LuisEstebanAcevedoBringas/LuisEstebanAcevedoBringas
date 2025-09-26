@@ -38,9 +38,9 @@
 <h2 align="center">🧠 Skill set 🧠</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,javascript,typescript,c,cpp,cs,php,java,matlab" />
-    <img src="https://skillicons.dev/icons?i=react,angular,vue,html,css,sass,tailwind,astro,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,firebase,mongodb,mysql,qt,docker" />
+    <img src="https://skillicons.dev/icons?i=py,javascript,typescript,c,cpp,cs,php,matlab,react" />
+    <img src="https://skillicons.dev/icons?i=angular,vue,html,css,sass,tailwind,astro,bootstrap,nodejs" />
+    <img src="https://skillicons.dev/icons?i=express,django,flask,firebase,mongodb,mysql,qt,docker" />
     <img src="https://skillicons.dev/icons?i=bash,github,git,gitlab,linux,npm,postman,vscode" />
     <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" />
     <img src="https://skillicons.dev/icons?i=sklearn,cmake,xd,ps,pr,ae,figma" />
